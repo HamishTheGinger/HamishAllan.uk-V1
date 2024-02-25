@@ -169,6 +169,10 @@ section {
 	color: #000;
 }
 
+.home-link-carousel {
+	font-size: 50px;
+}
+
 
 /* ===== Begin navbar ===== */
 .navbar {
@@ -1353,3 +1357,7 @@ p.subtitle {
 }
 
 /* ===== End buttons ===== */
+
+.home-link-carousel {
+	font-size: 50px;
+}
